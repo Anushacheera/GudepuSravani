@@ -38,7 +38,7 @@
 
 ## 🔭 Featured Projects  
 
-✨ **[Real-Time Ride Booking System](#)** – Scalable MERN stack app with real-time ride requests, driver matching, and live tracking.  
+✨ **[Github clone](#)** – Github clone is a command used to copy a Github repository from the internet to your local computer.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
 🏠 **[Property Rental & Review System](#)** – Secure rental listings + verified reviews to build trust & transparency.  
 🏫 **[College Property Damage Reporter](#)** – Reporting tool with admin dashboards, filtering, and image preview features.  
@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats (Dark + Blue)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKalyanKing&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKalyanKing&theme=blueberry_duo" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GudepuSravani&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="160"/>
 </p>
 
 ---
